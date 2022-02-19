@@ -12,10 +12,10 @@
 
 생각보다 도움을 절실히 필요로 하는 학생이 많다는 사실을 알게 되었다. 단순히 과제를 해결해주는 것이 아닌, 함께 공부해나가는 방식으로 프로젝트를 진행하였다. 14번의 프로젝트를 업로드하였지만 2개월간 총 30번 내외의 사람을 도와주었다. 그 중 절반 이상은 소소한 선물을 받았다. 보상을 바라서 진행했던 프로젝트는 아니었지만, 가끔 받는 기프티콘은 적잖은 힘이 되었다.
 
-![Untitled](help-codin%2082636/Untitled.png)
+![Untitled](src/1.png)
 
-![Untitled](help-codin%2082636/Untitled%201.png)
+![Untitled](src/2.png)
 
-![Untitled](help-codin%2082636/Untitled%202.png)
+![Untitled](src/3.png)
 
-![Untitled](help-codin%2082636/Untitled%203.png)
+![Untitled](src/4.png)
